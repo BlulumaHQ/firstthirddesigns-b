@@ -13,6 +13,7 @@ import Contact from "./pages/Contact.tsx";
 import WebsiteInAWeek from "./pages/WebsiteInAWeek.tsx";
 import WebsiteInADay from "./pages/WebsiteInADay.tsx";
 import NotFound from "./pages/NotFound.tsx";
+import ProjectDetail from "./pages/ProjectDetail.tsx";
 
 const queryClient = new QueryClient();
 
@@ -28,6 +29,7 @@ const App = () => (
             <Route path="/about" element={<About />} />
             <Route path="/service" element={<Services />} />
             <Route path="/portfolio" element={<Portfolio />} />
+            <Route path="/portfolio/:slug" element={<ProjectDetail />} />
             <Route path="/blog" element={<Blog />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/website-in-a-week" element={<WebsiteInAWeek />} />
