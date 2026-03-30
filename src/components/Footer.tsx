@@ -100,15 +100,6 @@ const Footer = () => {
               className="hover:opacity-80 transition-opacity underline"
             >
               Bluluma
-            </a>{" "}
-            | Powered by{" "}
-            <a
-              href="https://swiftlift.app"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:opacity-80 transition-opacity underline"
-            >
-              SwiftLift
             </a>
           </p>
         </div>
