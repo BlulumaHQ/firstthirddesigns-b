@@ -261,10 +261,10 @@ const Services = () => {
 
               <Link
                 to="/contact"
-                className="inline-flex items-center gap-2 px-7 py-3.5 bg-secondary text-secondary-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity"
-              >
-                Inquire Now <ArrowRight size={16} />
-              </Link>
+              className="inline-flex items-center gap-2 px-7 py-3.5 bg-primary text-primary-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity"
+            >
+              Inquire Now <ArrowRight size={16} />
+            </Link>
             </div>
             <div className="order-1 lg:order-2">
               <div className="aspect-[4/5] rounded-lg overflow-hidden">
