@@ -69,7 +69,7 @@ const ServicesSection = () => {
         <div className="text-center mt-12">
           <Link
             to="/service"
-            className="inline-flex items-center gap-2 px-7 py-3.5 bg-secondary text-secondary-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity"
+            className="inline-flex items-center gap-2 px-7 py-3.5 bg-primary text-primary-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity"
           >
             Explore All Services <ArrowRight size={16} />
           </Link>

@@ -31,18 +31,12 @@ const HeroSection = () => {
           >
             We help passion-driven female entrepreneurs turn their story, their strategy, and their vision into a brand people connect with.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 animate-fade-in" style={{ animationDelay: "0.3s" }}>
+          <div className="animate-fade-in" style={{ animationDelay: "0.3s" }}>
             <Link
               to="/contact"
-              className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary-foreground text-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity"
+              className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary text-primary-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity border border-primary-foreground/20"
             >
               Let's Make It Happen <ArrowRight size={16} />
-            </Link>
-            <Link
-              to="/portfolio"
-              className="inline-flex items-center justify-center gap-2 px-8 py-4 border-2 border-primary-foreground/40 text-primary-foreground font-body font-semibold text-sm rounded-md hover:bg-primary-foreground/10 transition-colors"
-            >
-              View Portfolio
             </Link>
           </div>
         </div>

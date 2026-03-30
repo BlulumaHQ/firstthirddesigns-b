@@ -42,7 +42,7 @@ const Services = () => {
               Strategic, high-touch brand and website design — built with
               intention, launched with confidence, and designed to grow with you.
             </p>
-            <div className="flex flex-wrap gap-4">
+            <div>
               <Link
                 to="/contact"
                 className="inline-flex items-center gap-2 px-8 py-4 bg-primary text-primary-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity"

@@ -118,7 +118,7 @@ const ProjectDetail = () => {
           </p>
           <Link
             to="/contact"
-            className="inline-flex items-center gap-2 px-8 py-4 bg-secondary text-secondary-foreground font-body font-bold text-sm uppercase tracking-wider rounded-md hover:opacity-90 transition-opacity"
+            className="inline-flex items-center gap-2 px-8 py-4 bg-primary text-primary-foreground font-body font-bold text-sm uppercase tracking-wider rounded-md hover:opacity-90 transition-opacity"
           >
             Start Your Project <ArrowRight size={16} />
           </Link>
