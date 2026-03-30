@@ -11,20 +11,12 @@ const CTABlock = () => {
         <p className="section-subtitle text-background/70 mb-10">
           We believe in you, now it's your turn.
         </p>
-        <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          <Link
-            to="/contact"
-            className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-secondary text-secondary-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity"
-          >
-            Let's Do The Damn Thing <ArrowRight size={16} />
-          </Link>
-          <Link
-            to="/service"
-            className="inline-flex items-center justify-center gap-2 px-8 py-4 border-2 border-background/30 text-background font-body font-semibold text-sm rounded-md hover:bg-background/10 transition-colors"
-          >
-            View Services
-          </Link>
-        </div>
+        <Link
+          to="/contact"
+          className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary text-primary-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity"
+        >
+          Let's Do The Damn Thing <ArrowRight size={16} />
+        </Link>
       </div>
     </section>
   );

@@ -42,19 +42,13 @@ const Services = () => {
               Strategic, high-touch brand and website design — built with
               intention, launched with confidence, and designed to grow with you.
             </p>
-            <div className="flex flex-wrap gap-4">
+            <div>
               <Link
                 to="/contact"
-                className="inline-flex items-center gap-2 px-8 py-4 bg-secondary text-secondary-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity"
+                className="inline-flex items-center gap-2 px-8 py-4 bg-primary text-primary-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity"
               >
                 Start Your Project <ArrowRight size={16} />
               </Link>
-              <a
-                href="#pathways"
-                className="inline-flex items-center gap-2 px-8 py-4 border border-background/30 text-background font-body font-semibold text-sm rounded-md hover:bg-background/10 transition-colors"
-              >
-                Explore Services
-              </a>
             </div>
           </div>
         </div>
@@ -267,10 +261,10 @@ const Services = () => {
 
               <Link
                 to="/contact"
-                className="inline-flex items-center gap-2 px-7 py-3.5 bg-secondary text-secondary-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity"
-              >
-                Inquire Now <ArrowRight size={16} />
-              </Link>
+              className="inline-flex items-center gap-2 px-7 py-3.5 bg-primary text-primary-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity"
+            >
+              Inquire Now <ArrowRight size={16} />
+            </Link>
             </div>
             <div className="order-1 lg:order-2">
               <div className="aspect-[4/5] rounded-lg overflow-hidden">
@@ -299,7 +293,7 @@ const Services = () => {
           </p>
           <Link
             to="/contact"
-            className="inline-flex items-center gap-2 px-8 py-4 bg-secondary text-secondary-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity"
+            className="inline-flex items-center gap-2 px-8 py-4 bg-primary text-primary-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity"
           >
             Schedule a Call <ArrowRight size={16} />
           </Link>
@@ -500,7 +494,7 @@ const Services = () => {
           </p>
           <Link
             to="/contact"
-            className="inline-flex items-center gap-2 px-8 py-4 bg-secondary text-secondary-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity"
+            className="inline-flex items-center gap-2 px-8 py-4 bg-primary text-primary-foreground font-body font-bold text-sm rounded-md hover:opacity-90 transition-opacity"
           >
             Let's Do The Damn Thing <ArrowRight size={16} />
           </Link>
