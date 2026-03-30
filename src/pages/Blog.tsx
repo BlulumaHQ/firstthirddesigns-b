@@ -28,7 +28,7 @@ const blogPosts = [
     category: "Smarter Not Harder",
     date: "February 2025",
     image:
-      "https://static.showit.co/1600/bWrvvDMKSZWbG4VJ3p-bwA/235620/pexels-vlada-karpovich-4050315.jpg",
+      "https://static.showit.co/1200/kD9N8LsPA5xju58h4vuRQQ/235620/pexels-esranurkalay-13673111.jpg",
   },
   {
     title: "The Power of Showing Up Authentically Online",
@@ -37,7 +37,7 @@ const blogPosts = [
     category: "You Got This",
     date: "January 2025",
     image:
-      "https://static.showit.co/1600/xVyxpb2vTr-hJH2Ihkz4ew/235620/pexels-gabby-k-5331206.jpg",
+      "https://static.showit.co/1200/W2_TQkY3XrZi3Drh3tpe2w/235620/corinne-kutz-omftdpbbfxe-unsplash.jpg",
   },
   {
     title: "How I Built My Business Around Nap Time",
@@ -46,7 +46,7 @@ const blogPosts = [
     category: "Real Talk",
     date: "December 2024",
     image:
-      "https://static.showit.co/1600/O3BvZDi3QgGBVjnYMRBj2g/235620/pexels-olly-3756679.jpg",
+      "https://static.showit.co/800/KGeYD_o-a4YbGX-rTqnm3Q/235620/cherrydeck-ovwc3lehrz8-unsplash.jpg",
   },
   {
     title: "Stop Waiting for 'Ready' — Start Before You Feel It",
@@ -55,7 +55,7 @@ const blogPosts = [
     category: "Hustle Hotline",
     date: "November 2024",
     image:
-      "https://static.showit.co/1600/vGU2gd10RVCpI3Fq-rVnTQ/235620/pexels-keira-burton-6147276.jpg",
+      "https://static.showit.co/400/og4z50CXUl4oxPI9GpWkmg/235620/annie-spratt-h5juyyspcdc-unsplash.jpg",
   },
   {
     title: "Why Your Brand Colors Actually Matter More Than You Think",
@@ -64,7 +64,7 @@ const blogPosts = [
     category: "Smarter Not Harder",
     date: "October 2024",
     image:
-      "https://static.showit.co/1600/9PoSFkn0Tk-IVTJ8JBwQnQ/235620/pexels-mart-production-7709219.jpg",
+      "https://static.showit.co/800/FCEBECixG_oi_9Es4VArjA/235620/20.png",
   },
   {
     title: "A Love Letter to the Woman Still Figuring It Out",
@@ -73,7 +73,7 @@ const blogPosts = [
     category: "You Got This",
     date: "September 2024",
     image:
-      "https://static.showit.co/1600/2OFPgJuuS5OAlj5KNCdTiQ/235620/pexels-cottonbro-4065891.jpg",
+      "https://static.showit.co/800/n6H7Rj05r5Z0700SG0gu0A/235620/21.png",
   },
 ];
 
